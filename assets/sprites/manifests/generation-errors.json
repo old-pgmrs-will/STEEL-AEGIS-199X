@@ -1,0 +1,335 @@
+{
+  "updatedAt": "2026-03-06T02:07:51.183Z",
+  "failures": [
+    {
+      "spriteId": "player_type_a_idle",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:33.640Z"
+    },
+    {
+      "spriteId": "player_type_b_idle",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:34.149Z"
+    },
+    {
+      "spriteId": "player_type_c_idle",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:34.508Z"
+    },
+    {
+      "spriteId": "enemy_drone_a",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:35.210Z"
+    },
+    {
+      "spriteId": "enemy_zigzag_a",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:35.388Z"
+    },
+    {
+      "spriteId": "enemy_heavy_a",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:35.554Z"
+    },
+    {
+      "spriteId": "boss_stage1_core",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:36.162Z"
+    },
+    {
+      "spriteId": "item_shot",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:37.086Z"
+    },
+    {
+      "spriteId": "item_shield",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:37.479Z"
+    },
+    {
+      "spriteId": "item_bomb",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:38.229Z"
+    },
+    {
+      "spriteId": "bullet_player_small",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:38.835Z"
+    },
+    {
+      "spriteId": "bullet_enemy_small",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:39.169Z"
+    },
+    {
+      "spriteId": "bullet_enemy_large",
+      "kind": "unknown_error",
+      "status": 400,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "400 Billing hard limit has been reached.",
+      "timestamp": "2026-03-06T01:27:39.926Z"
+    },
+    {
+      "spriteId": "player_type_c_idle",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:38:37.929Z"
+    },
+    {
+      "spriteId": "enemy_zigzag_a",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:39:22.105Z"
+    },
+    {
+      "spriteId": "enemy_heavy_a",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:39:29.099Z"
+    },
+    {
+      "spriteId": "item_shot",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:40:14.027Z"
+    },
+    {
+      "spriteId": "item_bomb",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:40:45.700Z"
+    },
+    {
+      "spriteId": "bullet_player_small",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:40:52.987Z"
+    },
+    {
+      "spriteId": "bullet_enemy_small",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:40:59.991Z"
+    },
+    {
+      "spriteId": "bullet_enemy_large",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:41:07.276Z"
+    },
+    {
+      "spriteId": "player_type_c_idle",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:44.559Z"
+    },
+    {
+      "spriteId": "enemy_zigzag_a",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:45.852Z"
+    },
+    {
+      "spriteId": "enemy_heavy_a",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:47.255Z"
+    },
+    {
+      "spriteId": "item_shot",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:48.517Z"
+    },
+    {
+      "spriteId": "item_bomb",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:49.706Z"
+    },
+    {
+      "spriteId": "bullet_player_small",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:50.944Z"
+    },
+    {
+      "spriteId": "bullet_enemy_small",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:52.253Z"
+    },
+    {
+      "spriteId": "bullet_enemy_large",
+      "kind": "unknown_error",
+      "status": null,
+      "retryable": false,
+      "fatal": false,
+      "attempts": 1,
+      "message": "Connection error.",
+      "timestamp": "2026-03-06T01:54:53.518Z"
+    },
+    {
+      "spriteId": "enemy_heavy_a",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:57:28.826Z"
+    },
+    {
+      "spriteId": "item_shot",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:57:35.843Z"
+    },
+    {
+      "spriteId": "bullet_enemy_small",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:58:22.225Z"
+    },
+    {
+      "spriteId": "bullet_enemy_large",
+      "kind": "rate_limited",
+      "status": 429,
+      "retryable": true,
+      "fatal": false,
+      "attempts": 3,
+      "message": "レート制限に達しました。時間を置いて再試行してください。",
+      "timestamp": "2026-03-06T01:58:29.341Z"
+    }
+  ]
+}

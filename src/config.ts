@@ -1,0 +1,9 @@
+export const GAME_WIDTH = 540;
+export const GAME_HEIGHT = 900;
+export const FIXED_TIMESTEP = 1000 / 60;
+export const PLAYER_TOP_SPEED = 540;
+export const PLAYER_FOCUS_SPEED = 280;
+export const PLAYER_HIT_RADIUS = 6;
+export const PLAYER_COLLISION_RADIUS = 18;
+export const MAX_STAGE_TIME_MS = 56000;
+export const ITEM_PICKUP_LINE_Y = 180;

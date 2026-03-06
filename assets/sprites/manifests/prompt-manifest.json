@@ -1,0 +1,147 @@
+{
+  "records": [
+    {
+      "spriteId": "player_type_a_idle",
+      "cellWidth": 32,
+      "cellHeight": 32,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, military sci-fi player starfighter, top-down with slight front tilt, sleek spearhead silhouette, narrow nose, twin side wings, central cockpit canopy, forward guns clearly visible, bright cyan and white main colors with deep navy shadows, crisp silhouette, readable at 32x32, single sprite only, centered, empty margin around the subject, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, smooth shading, blurry, anti-aliased, painterly, watercolor, soft edges, background scene, landscape, text, logo, watermark, cropped wings, multiple subjects, bloom overflow"
+    },
+    {
+      "spriteId": "player_type_b_idle",
+      "cellWidth": 32,
+      "cellHeight": 32,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, high mobility player starfighter, top-down with slight front tilt, swept wings, agile lightweight frame, split tail fins, missile pods under wings, emerald green and white body with dark steel shadows, readable at 32x32, single sprite only, centered, empty margin, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, blur, anti-aliased, painterly, soft edges, text, logo, watermark, multiple subjects, cropped frame"
+    },
+    {
+      "spriteId": "player_type_c_idle",
+      "cellWidth": 32,
+      "cellHeight": 32,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, heavy armored player gunship, top-down with slight front tilt, broad body, thick frontal armor, side-mounted support pods, visible rear thrusters, deep red and steel gray body with pale highlights, readable at 32x32, single sprite only, centered, empty margin, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, blur, anti-aliased, painterly, soft edges, text, logo, watermark, multiple subjects, cropped frame"
+    },
+    {
+      "spriteId": "enemy_drone_a",
+      "cellWidth": 32,
+      "cellHeight": 32,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, small hostile attack drone, top-down with slight front tilt, sharp triangular hull, simple readable enemy silhouette, twin side blades, front cannon, orange and ivory body with dark rust shadows, readable at 32x32, single sprite only, centered, empty margin, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, blur, anti-aliased, painterly, soft edges, text, logo, watermark, multiple subjects"
+    },
+    {
+      "spriteId": "enemy_zigzag_a",
+      "cellWidth": 32,
+      "cellHeight": 32,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, agile hostile zigzag fighter, top-down with slight front tilt, crooked swept silhouette, asymmetrical winglets, fast attack drone design, orange and sand body with dark brown shadows, readable at 32x32, single sprite only, centered, empty margin, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, blur, anti-aliased, painterly, soft edges, text, logo, watermark, multiple subjects"
+    },
+    {
+      "spriteId": "enemy_heavy_a",
+      "cellWidth": 40,
+      "cellHeight": 40,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, medium armored enemy gunship, top-down with slight front tilt, heavy central hull, side armor blocks, visible weapon ports, intimidating but readable silhouette, red-orange and dark iron body, readable at 40x40, single sprite only, centered, empty margin, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, blur, anti-aliased, painterly, soft edges, text, logo, watermark, multiple subjects"
+    },
+    {
+      "spriteId": "boss_stage1_core",
+      "cellWidth": 96,
+      "cellHeight": 64,
+      "background": "transparent",
+      "quality": "high",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a 1990s arcade vertical shoot'em up, stage boss core module, top-down with slight front tilt, massive fortress-mecha centerpiece, wide armored body, central vulnerable core, layered weapon housings, ceremonial military sci-fi design, dark crimson, rose red, pale core highlights, readable at 96x64, single sprite only, centered, empty margin, hard edge pixels, no antialiasing, no text, no logo, no watermark",
+      "negativePrompt": "photorealistic, 3d render, blur, anti-aliased, painterly, soft edges, text, logo, watermark, multiple subjects, background scene"
+    },
+    {
+      "spriteId": "item_shot",
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "background": "transparent",
+      "quality": "medium",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a retro arcade shooter item icon, compact energy capsule, top-down, gold and cream colors, readable at 16x16, single sprite only, centered, hard edge pixels, no antialiasing, no text, no logo",
+      "negativePrompt": "photorealistic, blur, anti-aliased, painterly, text, logo, watermark, multiple subjects, background scene"
+    },
+    {
+      "spriteId": "item_shield",
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "background": "transparent",
+      "quality": "medium",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a retro arcade shooter item icon, compact shield recharge core, top-down, mint green and pale cyan colors, readable at 16x16, single sprite only, centered, hard edge pixels, no antialiasing, no text, no logo",
+      "negativePrompt": "photorealistic, blur, anti-aliased, painterly, text, logo, watermark, multiple subjects, background scene"
+    },
+    {
+      "spriteId": "item_bomb",
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "background": "transparent",
+      "quality": "medium",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a retro arcade shooter item icon, compact bomb stock core, top-down, violet and pale white colors, readable at 16x16, single sprite only, centered, hard edge pixels, no antialiasing, no text, no logo",
+      "negativePrompt": "photorealistic, blur, anti-aliased, painterly, text, logo, watermark, multiple subjects, background scene"
+    },
+    {
+      "spriteId": "bullet_player_small",
+      "cellWidth": 8,
+      "cellHeight": 12,
+      "background": "transparent",
+      "quality": "medium",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a retro arcade shooter player bullet, narrow vertical energy bolt, cyan and white core, readable at 8x12, centered, hard edge pixels, no antialiasing, no text, no logo",
+      "negativePrompt": "photorealistic, blur, anti-aliased, painterly, text, logo, watermark, background scene"
+    },
+    {
+      "spriteId": "bullet_enemy_small",
+      "cellWidth": 8,
+      "cellHeight": 8,
+      "background": "transparent",
+      "quality": "medium",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a retro arcade shooter enemy bullet, compact hostile energy pellet, pink-red with pale center, readable at 8x8, centered, hard edge pixels, no antialiasing, no text, no logo",
+      "negativePrompt": "photorealistic, blur, anti-aliased, painterly, text, logo, watermark, background scene"
+    },
+    {
+      "spriteId": "bullet_enemy_large",
+      "cellWidth": 10,
+      "cellHeight": 10,
+      "background": "transparent",
+      "quality": "medium",
+      "size": "1024x1024",
+      "variants": 4,
+      "prompt": "pixel art sprite for a retro arcade shooter enemy bullet, larger hostile plasma orb, orange with bright core, readable at 10x10, centered, hard edge pixels, no antialiasing, no text, no logo",
+      "negativePrompt": "photorealistic, blur, anti-aliased, painterly, text, logo, watermark, background scene"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "player_type_a_idle": {
+    "sheet": "player-32x32.png",
+    "x": 0,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "player_type_b_idle": {
+    "sheet": "player-32x32.png",
+    "x": 32,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "player_type_c_idle": {
+    "sheet": "player-32x32.png",
+    "x": 0,
+    "y": 32,
+    "width": 32,
+    "height": 32
+  },
+  "enemy_drone_a": {
+    "sheet": "enemy-small-32x32.png",
+    "x": 0,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "enemy_zigzag_a": {
+    "sheet": "enemy-small-32x32.png",
+    "x": 32,
+    "y": 0,
+    "width": 32,
+    "height": 32
+  },
+  "enemy_heavy_a": {
+    "sheet": "enemy-medium-40x40.png",
+    "x": 0,
+    "y": 0,
+    "width": 40,
+    "height": 40
+  },
+  "boss_stage1_core": {
+    "sheet": "boss-96x64.png",
+    "x": 0,
+    "y": 0,
+    "width": 96,
+    "height": 64
+  },
+  "item_shot": {
+    "sheet": "item-16x16.png",
+    "x": 0,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "item_shield": {
+    "sheet": "item-16x16.png",
+    "x": 16,
+    "y": 0,
+    "width": 16,
+    "height": 16
+  },
+  "item_bomb": {
+    "sheet": "item-16x16.png",
+    "x": 0,
+    "y": 16,
+    "width": 16,
+    "height": 16
+  },
+  "bullet_player_small": {
+    "sheet": "bullet-8x12.png",
+    "x": 0,
+    "y": 0,
+    "width": 8,
+    "height": 12
+  },
+  "bullet_enemy_small": {
+    "sheet": "bullet-8x8.png",
+    "x": 0,
+    "y": 0,
+    "width": 8,
+    "height": 8
+  },
+  "bullet_enemy_large": {
+    "sheet": "bullet-10x10.png",
+    "x": 0,
+    "y": 0,
+    "width": 10,
+    "height": 10
+  }
+}

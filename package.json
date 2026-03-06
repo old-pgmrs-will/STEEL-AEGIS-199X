@@ -1,0 +1,23 @@
+{
+  "name": "steel-aegis-199x",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "sprites:generate": "node scripts/generate-sprites.mjs",
+    "sprites:review": "node scripts/build-review-checklist.mjs",
+    "sprites:pack": "node scripts/pack-sprite-sheets.mjs",
+    "sprites:normalize": "node scripts/normalize-candidates.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "openai": "^6.5.0",
+    "pngjs": "^7.0.0"
+  }
+}
